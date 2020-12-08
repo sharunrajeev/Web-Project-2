@@ -1,0 +1,20 @@
+body {
+    background-color: #dbf6e9;
+    font-size: 1.5rem;
+}
+hr {
+    width: 5%;
+    /* border-style: dotted none none; // alternative way to specify the border top */
+    border-style: none;
+    border-top: 7px dotted;
+    border-color: #31326f;
+}
+h1 {
+    color: #f78c8c;
+    letter-spacing: .2rem;
+    text-shadow: 2px 1px 3px rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3 {
+    color: #38b19d;
+}
